@@ -1,0 +1,173 @@
+/*Geral*/
+/*Barra de rolagem*/
+:root{
+    --cor_pri: #F50057;
+}
+::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--cor_pri);
+}
+
+.cor_pri{
+    background-color: var(--cor_pri);
+}
+
+hr.claro {
+    color: #b3a9a1;
+    background-color: #b3a9a1;
+    height: 1px;
+    width: 50px;
+    margin-top: 90px;
+}
+
+hr.escuro {
+    color: #353130;
+    background-color: var(--cor_pri);
+    height: 1px;
+    width: 50px;
+    margin-top: 90px;
+}
+
+@media (max-width: 996px){ 
+    .col-lg-6.reverse{
+      order: 2;
+    }
+}
+
+a, a:visited, a:focus, a:active{ text-decoration: none; color: inherit; }
+a:hover { color: #ffffff; } 
+
+/*Seção Nosso Cardárpio Pagina Inicial*/
+div#image1{
+    background-image: url(../img/prato-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+.titulo{
+    font-family: monospace;
+    line-height: 10px;
+    text-align: center;
+}
+
+.btn-outline-dark:hover{
+    background-color: #353130;
+}
+
+/*Seção História*/
+div#image2{
+    background-image: url(../img/familia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+div#image5{
+    background-image: url(../img/familia-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+/*Seção contato*/
+div#image3{
+    background-image: url(../img/prato-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+div#image4{
+    background-image: url(../img/prato-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+/*Rodapé*/
+div#footer{
+    font-family: monospace;
+    color: #e3e2e0;
+    position: relative;
+    height: 60px;
+}
+
+div#textofooter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Página de Cardápio*/
+/*Cardárpio Banner*/
+div#cardapiobanner{
+    background-image: url(../img/cardapio/cardapio-primary.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 230px;
+    color: #e3e2e0;
+    font-family: monospace;
+    position: relative;
+    text-align: center;
+}
+
+div#textocardapiobanner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Título*/
+div#titutloalmocooujantar{
+    color: #e3e2e0;
+    position: relative;
+    height: 60px;
+}
+
+div#titutloalmocooujantar2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Pratos*/
+div#pratodiv{
+    color: var(--cor_pri);
+    position: relative;
+    margin-top: 15px;
+    margin-right: 12px;
+    height: 200px;
+}
+
+div#pratodiv2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+div#prato1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 12px;
+    height: 200px;
+}
+
+
+/**/
