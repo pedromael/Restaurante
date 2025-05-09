@@ -99,7 +99,7 @@ $produtos = new produtos;
             <div id="footer" class="col" style="background-color: #353130;">
               <div id="textofooter">
                 Desenvolvido por - <a href="https://github.com/pedromael" style="text-decoration:none;" target="_blank">
-                  <img style="width: 16px;" src="img/github-icone.png"> Pedro manuel</a>
+                  <img style="width: 16px;" src="img/github-icone.png"> estudantes do maria luisa</a>
               </div>
             </div>
           </div>

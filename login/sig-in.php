@@ -71,7 +71,7 @@ if (isset($_POST['new_adm']) && $_SESSION['user_tipe'] == 'adm') {
                             <i class="fas fa-map"></i>
                     </div>
                     <div class="div">
-                            <h5>indereco</h5>
+                            <h5>indereço</h5>
                             <input type="text" class="input"  name="indereco">
                     </div>
                 </div>

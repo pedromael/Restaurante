@@ -11,7 +11,7 @@ if (isset($_SESSION['user'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" media="screen" href="css/bootstrap.min.css"> <!--CSS do Bootstrap-->
     <link rel="stylesheet" href="css/style.css"> <!--Meu CSS-->
-    <title>Sabor Real - Comida Mineira</title>
+    <title>F_F_C- Comida caseira</title>
   </head>
   <body>
       <!--Menu-->
@@ -48,15 +48,15 @@ if (isset($_SESSION['user'])) {
                 <div class="carousel-item active">
                 <img class="d-block w-100" src="img/slide-1.jpg">
                 <div class="carousel-caption d-none d-md-block" style="text-shadow: 0.1em 0.1em 0.2em #0000006c;">
-                    <span style="font-size: 50px;">Comida Mineira</span>
+                    <span style="font-size: 50px;">Festefood_commercial </span>
                     <p style="font-size: x-large;">O sabor que só existe aqui</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100" src="img/slide-2.jpg">
                 <div class="carousel-caption d-none d-md-block" style="text-shadow: 0.1em 0.1em 0.2em #0000006c;">
-                     <span style="font-size: 50px;">Fogão a lenha</span>
-                     <p style="font-size: x-large;">A comida fica muito mais gostosa</p>
+                     <span style="font-size: 50px;"> F_F_C</span>
+                     <p style="font-size: x-large;">Onde á comida fica muito mais gostosa</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -99,7 +99,7 @@ if (isset($_SESSION['user'])) {
                         <h6 style="color: #b3a9a1; margin-bottom: 90px;">
                                 Queremos compartilhar nossa paixão pela cozinha.
                                 Nós cozinhamos nossos pratos com os ingredientes mais frescos,
-                                e somos especializados na culinária mineira, tudo isso
+                                e somos especializados na culinária   , tudo isso
                                 em um ambiente acolhedor e amigável.
                         </h6>  
                     </span>
@@ -143,10 +143,10 @@ if (isset($_SESSION['user'])) {
                           <h6 style="color: #353130; margin-bottom: 90px;">
                             <p>
                               Nossa família está no ramo de restaurantes há mais de 200 anos,
-                              mas nossa história na cidade de Ipatinga começou em 1975,
+                              mas nossa história na cidade de luanda começou em 2024,
                               quando nos mudamos pra região e abrimos este restaurante.
-                              Desde então temos feito a boa comida mineira, e conquistado
-                              diversos clientes no passar dos anos.
+                              Desde então temos feito a boa comida saborosa, e conquistado
+                              diversos clientes no passar dos tempos. 
                             </p>
                           </h6>  
                       </span>
@@ -169,8 +169,8 @@ if (isset($_SESSION['user'])) {
                           <br>
                           <h6 style="color: #353130; margin-bottom: 90px;">
                             <p>
-                              Tel:. 947796474 <br>
-                              WhatsApp:. 947796474<br>
+                              Tel:. 925328338 <br>
+                              WhatsApp:. 925328338<br>
                               Angola Luanda-viana
                             </p>
                           </h6>  
@@ -188,7 +188,7 @@ if (isset($_SESSION['user'])) {
             <div id="footer" class="col" style="background-color: #353130;">
               <div id="textofooter">
                 Desenvolvido por - <a href="https://github.com/pedromael" style="text-decoration:none;" target="_blank">
-                  <img style="width: 16px;" src="img/github-icone.png"> Pedro manuel</a>
+                  <img style="width: 16px;" src="img/github-icone.png"> estudantes do Maria luisa </a>
               </div>
             </div>
           </div>
